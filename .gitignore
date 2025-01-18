@@ -1,0 +1,50 @@
+# Ignore Python-related files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore Django-related files
+*.sqlite3
+db.sqlite3
+media/
+
+# Ignore virtual environment files
+env/
+venv/
+virtualenv/
+
+# Ignore IDE-related files
+.vscode/
+.idea/
+.pycharm/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore other files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+*.swo
+*.swn
+*.swo
+*.swn
+*.swo
+*.swn
+
+# Ignore Django migrations
+*/migrations/*.pyc
+*/migrations/*.pyo
+*/migrations/*.pyd
+*/migrations/__pycache__/
+
+# Ignore static files
+staticfiles/
+
+# Ignore node_modules (if you're using npm or yarn)
+node_modules/
