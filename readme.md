@@ -182,7 +182,7 @@ Project documentation, including setup instructions, features, and API details.
 
 This application is deployed on [Render](https://render.com) and can be accessed at:
 
-[Live Application](https://inventory-management-app-ajyz.onrender.com/)
+[Live Application]([https://inventory-management-app-ajyz.onrender.com/](https://nexuslogix-djongo.onrender.com/))
 
 For further details about the deployment or hosting environment, refer to the [Render Documentation](https://render.com/docs).
 
